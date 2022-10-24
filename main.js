@@ -41,5 +41,3 @@ const shuffle = ([...array]) => {
   console.log(`${end - start} ms`);
   return array;
 };
-
-shuffle(students);
